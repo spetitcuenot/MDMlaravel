@@ -1,2 +1,2 @@
 # MDMlaravel
-just a first look at the Laravel framework
+just a first look to Laravel framework
